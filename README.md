@@ -59,5 +59,8 @@ XGBoost + Random Forest voting ensemble achieving 92% accuracy and 0.88 F1-score
 ---
 
 <p align="center">
-📫 Reach me: <a href="mailto:ayesha.psr1234@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/ayesha-shahid-6468a3421/">LinkedIn</a>
+📫 Reach me: 📩 <a href="mailto:ayesha.psr1234@gmail.com">ayesha.psr1234@gmail.com</a> ·
+🔗 <a href="https://www.linkedin.com/in/ayesha-shahid-6468a3421/">LinkedIn</a> ·
+🆔 <a href="https://orcid.org/0009-0000-4317-4674">ORCID</a> ·
+📄 <a href="https://doi.org/10.1007/s13410-026-01658-3">Published Paper (Springer Nature)</a>
 </p>
